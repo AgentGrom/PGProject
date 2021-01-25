@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=D:\pythonProject\YandexLyceum\PyGameProject\data\icon.ico D:\pythonProject\YandexLyceum\PyGameProject\ProjectPGame_4.py
